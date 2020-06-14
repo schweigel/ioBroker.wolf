@@ -1047,7 +1047,7 @@
     "name": "Frost Status: Fehler/Unausgeglichen",
     "type": "DPT_Bool",
     "rw": "r",
-    "einheit": "Heizgerät(1)"
+    "einheit": ""
   },
  "176": {
     "name": "Störung",
